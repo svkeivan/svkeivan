@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svkeivan
 - 👀 I’m interested in coding, games, movies, ...
-- 🌱 I’m currently working with React and Laravel
+- 🌱 I’m currently working with NextJs and Laravel
 - 💞️ I’m looking to collaborate on everything :-)
 - 📫 How to reach me : svkeivan@gmail.com or +98-933-527-2316
 
